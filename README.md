@@ -1,1 +1,3 @@
 # School_District_Analysis
+#Using the provided cell, write a brief summary of your findings as follows: Write a few sentences to describe any discoveries that you made while performing your analysis. Include any additional analysis that you believe would be worthwhile.
+- Over the course of this challenge I have collected the student data and put it into a dataframe, cleaned the data, summarized key pieces of data, analyzed subsets of data, and compare and contrasted data using grouping functions. When it comes to key data found in the challenge, we did find that charter schools have higher average math and reading scores when compared to public schools. 
